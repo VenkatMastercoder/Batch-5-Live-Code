@@ -33,3 +33,8 @@
   color: #fff;
   background-color: aqua;
 }
+
+.bg-container {
+  background-image: url("https://img.freepik.com/free-photo/beautiful-vertical-shot-taj-mahal-building-agra-india-cloudy-sky_181624-16913.jpg?t=st=1716219345~exp=1716222945~hmac=75a4fe6427f063079b3ab0ca664b70e4585808f9336934cb28bafadda5278469&w=740");
+  background-size: cover;
+}
